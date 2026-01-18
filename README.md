@@ -77,7 +77,7 @@ Hands-on labs covering scanning, enumeration, and traffic inspection.
 ## 🤝 Let’s Connect
 
 * 💻 GitHub: You’re already here 😉
-* 🧪 TryHackMe: *(coming soon)*
+* 🧪 TryHackMe: https://tryhackme.com/p/ThreatHater
 
 ---
 
