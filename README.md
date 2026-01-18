@@ -63,7 +63,7 @@ Hands-on labs covering scanning, enumeration, and traffic inspection.
 
 * Actively pushing security-related projects
 * Focus on quality documentation
-* ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash-2790&show_icons=true)
+* 
 
 
 ---
